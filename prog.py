@@ -14,6 +14,10 @@ hf = open("huckfinn.txt")
 fdText=fd.read()
 hfText=hf.read()
 
+
+
+
+
 fd.close()
 hf.close()
 
