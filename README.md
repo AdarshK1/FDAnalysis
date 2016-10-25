@@ -1,3 +1,11 @@
+# Tone Analysis on The Autobiography of Frederick Douglass and The Adventures of Huckleberry Finn
+
+As part of an English project, this repo is our attempt to compare the tone of Frederick Douglass and Mark Twain in the way they talk about and depict slavery in their respective books. Douglass was a former slave himself, while Twain was a white male, and so we were curious to see if we could detect those differences.
+
+And of course, how awesome is it to use Watson in English class?
+
+
+
 # Tone Analyzer Nodejs Starter Application
 
   The IBM Watson [Tone Analyzer][service_url] service is a cognitive linguistic analysis service used to monitor and identify tones within a piece of writing. It detects three types of tones, including emotions (negative emotions, cheerfulness, anger), social propensities (open, agreeable, and conscientious), and writing styles (analytical, confident and tentative) from people’s writings. Furthermore, it helps people understand how the tones are derived from various linguistic signals. It also offers actionable suggestions to revise the writings for desirable communication tones.
